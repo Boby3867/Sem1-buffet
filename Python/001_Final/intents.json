@@ -1,0 +1,114 @@
+{
+    "intents":[
+    {
+            "tag": "greeting",
+            "patterns": ["hi", "hello", "yo", "you", "morning"],
+            "responses": ["Yo what's good I'm a catan bot you"]
+    },
+    {
+            "tag": "goodbye",
+            "patterns": ["bye", "bye bye", "goodnight", "see ya"],
+            "responses": ["See you bro And remember life is catan"]
+    },
+    {
+            "tag": "catan",
+            "patterns": ["ctiy", "town", "Settlements"],
+            "responses": ["cities and Settlements can help you made from resource cards", "they all score you victory point", "they are in importin", "how you win"]
+    },
+    {
+            "tag": "more catan",
+            "patterns": ["trading"],
+            "responses": ["you can trade for resources with people or the bank and with ports that you trade them for the bank for make better deals than normal"]
+    },
+    {
+            "tag": "dice",
+            "patterns": ["can you roll a dice", "roll", "number", "pleese roll", "dice", "#"],
+            "responses": ["2","3","3","4","4","4","5","5","5","6","6","6","6","6","7","7","7","7","7","7","7","8","8","8","8","8","9","9","9","9","10","10","10","11","11","12"]
+    },
+    {
+            "tag": "more how",
+            "patterns": ["catan", "How to win catan", "what is catan", " why are people talking about catan"],
+            "responses": ["catan is a game where you get resources from your development and build them into more development through trade luck and fun. To win you have to acquire 10 victory points first"]
+    },
+    {
+            "tag": "set up",
+            "patterns": ["how to set up catan", "set up", "how to set up"],
+            "responses": ["To set up catan build the outside trade ports then inside put in tiles. these tiles represent the resources those tiles give then give. place numbers to each of these tiles the numbers represent how many resources you will get from that tile we're closer the number is 7 the more likely it is to roll seven being the most likely. Because of this the seven has a special rule for the robber placed on the desert Square which does not produce anything can rob from someone taking a card from their hand. Then from the person who's going first place down settlements on Corners of the tiles that you think are valuable this goes from the first player into the last player. Afterwards this goes backwards so last player places to first player Your second placements will get you your resource cards for the game the start and then you start"]
+    },
+    {
+            "tag": "build 1",
+            "patterns": ["I have brick", "I have wood"],
+            "responses": ["See if you can build roads to get longest road that gives you two victory points. you can also save these for building a settlement "]
+    },
+    {
+            "tag": "build 2",
+            "patterns": ["I have wheet", "I have ore"],
+            "responses": ["see If you can make a city, if you also have sheep you can build development cards"]
+    },
+    {
+            "tag": "build 3",
+            "patterns": ["How do I build a settlement", "need settlement"],
+            "responses": ["You need to have one of each of these things sheep hay bricks and wood"]
+    },
+    {
+            "tag": "build 4",
+            "patterns": ["What I do with sheep", "I have sheep"],
+            "responses": ["Settlements and development cards."]
+    },    
+    {
+            "tag": "are you ok",
+            "patterns": ["Are you ok", "you good"],
+            "responses": ["no any more question"]
+    },
+    {
+            "tag": "o",
+            "patterns": ["why are road good"],
+            "responses": ["you need road to place town"]
+    },
+    {
+            "tag": "p",
+            "patterns": ["development card"],
+            "responses": ["development cards are good to have becuase you can use the knight which are roder, make road, take card, and get victory point. last but more if you have 3 or more knight you get 2 victory points."]
+    },
+    {
+            "tag": "h",
+            "patterns": ["where do I place my settlements"],
+            "responses": ["place your settlements in place with good number with wood, and brick or wheet and ore"]
+    },
+    {
+            "tag": "c",
+            "patterns": ["How to play catan", "how to play"],
+            "responses": ["to play catan your settlements you place will get resources based on the number on the tile with the resources you gain you can play settlements, city, road, and development card. to win you get 10 victory points."]
+    },
+    {
+            "tag": "q",
+            "patterns": ["why do you play catan", "why play catan"],
+            "responses": ["beacuse you hate or love your friend and family"]
+    },
+    {
+            "tag": "q",
+            "patterns": ["sould I play catan"],
+            "responses": ["yes please I lonely"]
+    },
+    {
+            "tag": "k",
+            "patterns": [" how many people can play catan"],
+            "responses": [" the game host up to 3 the 4 players but with expansions it can go up to 8"]
+    },
+    {
+            "tag": "ooppp",
+            "patterns": ["Are there expansions to catan"],
+            "responses": ["Yes they're expansions to Catan including seafarers, War, and 5 to 6 players "]
+    },
+    {
+            "tag": "just",
+            "patterns": ["I keep losing at Catan how do I get better"],
+            "responses": ["I suggest one playing more catan online with free apps and two working on your setup which is the most important part of the game "]
+    },
+    {
+            "tag": "taco",
+            "patterns": ["why is catan import"],
+            "responses": ["Even though catan is a old game it's important because of its Legacy and its importance to the board game industry as a whole without catan many inspired creative board games that could not be made without it and therefore as a place on anyone Shelf and it's pretty fun."]
+    }
+        ]
+}
